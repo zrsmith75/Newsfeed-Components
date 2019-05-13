@@ -18,6 +18,7 @@ class Article {
   }
 }
 
+
 /* START HERE: 
 
 - Select all classes named ".article" and assign that value to the articles variable.  
